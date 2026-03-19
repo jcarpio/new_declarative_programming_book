@@ -500,7 +500,8 @@ Suggestions for new exercises, improvements to explanations, or corrections to c
 
 ### For Dummies Series
 - Wiley Publishing. *For Dummies* style guidelines — https://www.dummies.com/about-for-dummies/
-
+- Write Dummies Books - https://www.dummies.com/about-for-dummies/write-dummies-books/
+- Wiley: Prepare your proposal - https://www.wiley.com/en-es/publish/book/steps/prepare-proposal/
 ---
 
 *Last updated: March 2026*
